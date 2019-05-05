@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" sv:name="Test">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:content</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>33240a44-25db-43db-803c-daf221c74a03</sv:value>
+  </sv:property>
+  <sv:property sv:name="enabled" sv:type="Boolean">
+    <sv:value>true</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:created" sv:type="Date">
+    <sv:value>2019-03-22T22:58:47.585+05:30</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:createdBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+    <sv:value>2019-05-05T12:23:42.936+05:30</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="text" sv:type="String">
+    <sv:value xsi:type="xs:base64Binary">aW1wb3J0IGluZm8ubWFnbm9saWEuY29udGV4dC5NZ25sQ29udGV4dDsNCmltcG9ydCBqYXZheC5qY3IuTm9kZTsNCmltcG9ydCBqYXZheC5qY3IuUmVwb3NpdG9yeUV4Y2VwdGlvbjsNCmltcG9ydCBqYXZheC5qY3IuU2Vzc2lvbjsNCmltcG9ydCBpbmZvLm1hZ25vbGlhLmpjci51dGlsLk5vZGVVdGlsOyANCmltcG9ydCBqYXZheC5qY3IuTm9kZUl0ZXJhdG9yOw0KaW1wb3J0IGphdmF4Lmpjci5Qcm9wZXJ0eTsNCmltcG9ydCBqYXZheC5qY3IuUHJvcGVydHlJdGVyYXRvcjsNCg0KDQpwdWJsaWMgY2xhc3MgVGVzdCB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgew0KICAgICAgICAgcHJpbnQoInZhbHVlIik7IFNlc3Npb24gc2Vzc2lvbiA9IG51bGw7DQoJCXRyeSB7DQogICAgICAgICAgICBzZXNzaW9uID0gTWdubENvbnRleHQuZ2V0SkNSU2Vzc2lvbigid2F2ZTMtY29uZmlnIik7DQogICAgICAgICAgICBOb2RlIG5vZGUgPSBzZXNzaW9uLmdldE5vZGUoIi9lbiIpOw0KICAgICAgICB3YWxrTm9kZShub2RlKTsNCiAgICAgICAgDQogICAgICAgIC8vICAgTm9kZVV0aWwuY29weUluU2Vzc2lvbihub2RlLCAiL2VuL0dCL2tleTYiKTsNCiAgICAgICAgLy8gICBOb2RlIG4xID0gc2Vzc2lvbi5nZXROb2RlKCIvZW4vR0Iva2V5NiIpOw0KICAgICAgICAvLyAgICBuMS5zZXRQcm9wZXJ0eSgiamNyTmFtZSIsICJLZXk2Iik7DQogICAgICAgIC8vICAgICBuMS5zZXRQcm9wZXJ0eSgiamNyVmFsdWUiLCAiVmFsdWU2NjYiKTsNCiAgICAgICAgICAgc2Vzc2lvbi5zYXZlKCk7DQogICAgIC8vICAgICAgIHByaW50KG4xKTsNCiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsNCiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7DQogICAgICAgIH0gZmluYWxseSB7DQogICAgICAgICAgICB0cnl7DQogICAgICAgICAgICBzZXNzaW9uLmNsb3NlKCk7DQogICAgICAgICAgICAgICAgDQogICAgICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXt9DQogICAgICAgICAgICANCiAgICAgICAgfQ0KICAgIH0NCiAgICANCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgd2Fsa05vZGUoIE5vZGUgbm9kZSApIHRocm93cyBSZXBvc2l0b3J5RXhjZXB0aW9uIHsNCg0KICBpZihub2RlLmhhc1Byb3BlcnRpZXMoKSkgew0KCSAgdXBkYXRlTm9kZVByb3BlcnRpZXMobm9kZSk7DQogIH0NCiAgaWYoIW5vZGUuaGFzTm9kZXMoKSkgcmV0dXJuOw0KICANCiAgZWxzZSB7DQoJICBOb2RlSXRlcmF0b3IgX25vZGVJdGVyYXRvciA9IG5vZGUuZ2V0Tm9kZXMoKTsNCgkgIHdoaWxlKF9ub2RlSXRlcmF0b3IuaGFzTmV4dCgpKSB7DQoJCSAgTm9kZSBfbm9kZSA9IF9ub2RlSXRlcmF0b3IubmV4dE5vZGUoKTsNCgkJICB3YWxrTm9kZShfbm9kZSk7DQoJICB9DQoJICANCiAgfSAgCQ0KICB9DQogIA0KICBwdWJsaWMgc3RhdGljIHZvaWQgdXBkYXRlTm9kZVByb3BlcnRpZXMoTm9kZSBub2RlKSB0aHJvd3MgUmVwb3NpdG9yeUV4Y2VwdGlvbiB7DQogIA0KICAgIAlQcm9wZXJ0eUl0ZXJhdG9yIF9wcm9wSXRlcmF0b3IgPSBub2RlLmdldFByb3BlcnRpZXMoKTsNCiAgICAJd2hpbGUoX3Byb3BJdGVyYXRvci5oYXNOZXh0KCkpIHsNCiAgICAJCVByb3BlcnR5IHAgPSBfcHJvcEl0ZXJhdG9yLm5leHRQcm9wZXJ0eSgpOw0KICAgIAkJaWYocC5nZXRTdHJpbmcoKS5jb250YWlucygiR2VuZXJpYy1TaXRlIikpIHsNCiAgICAJCQlTdHJpbmcgX3ZhbHVlID0gcC5nZXRWYWx1ZSgpLmdldFN0cmluZygpLnJlcGxhY2VBbGwoIkdlbmVyaWMtU2l0ZSIsICIiKTsNCiAgICAJCQlub2RlLnNldFByb3BlcnR5KHAuZ2V0TmFtZSgpLCBfdmFsdWUpOw0KICAgIAkJfQ0KICAgIAl9DQogICAgCQkNCiAgICB9DQp9</sv:value>
+  </sv:property>
+  <sv:node sv:name="commands">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:content</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>5e68c4c1-dee5-40be-bbee-4cab6b1b0f08</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2019-03-22T22:58:47.588+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2019-03-26T23:58:08.049+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="GroovyMailCommand">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:content</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>721521e4-3c9e-4813-89ff-0faa0f877784</sv:value>
+      </sv:property>
+      <sv:property sv:name="enabled" sv:type="Boolean">
+        <sv:value>true</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2010-09-15T13:55:01.160+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-03-26T23:58:08.049+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value />
+      </sv:property>
+      <sv:property sv:name="script" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="text" sv:type="String">
+        <sv:value xsi:type="xs:base64Binary">cGFja2FnZSBzYW1wbGVzLmNvbW1hbmRzDQppbXBvcnQgaW5mby5tYWdub2xpYS5jb21tYW5kcy4qDQoNCi8qDQoqIFRoaXMgZ3Jvb3Z5IGNsYXNzIGlzIGFuIGV4YW1wbGUgdGhhdCBzZXJ2ZXMgdG8gc2hvdyBob3cgaXQgY2FuIGJlIHVzZWQgYXMgYSByZXBsYWNlbWVudCBvZiBhIHRyYWRpdGlvbmFsIEphdmEgY2xhc3Mgb24gdGhlIGZseS4NCiovDQpwdWJsaWMgY2xhc3MgR3Jvb3Z5TWFpbENvbW1hbmQgZXh0ZW5kcyBNZ25sQ29tbWFuZCB7DQoNCiAgICBwdWJsaWMgYm9vbGVhbiBleGVjdXRlKENvbnRleHQgY3R4KSB7DQoNCiAgICBkZWYgYW50ID0gbmV3IEFudEJ1aWxkZXIoKQ0KICAgIGRlZiBidWlsZG5hbWUgPSBjdHguZ2V0KCdidWlsZG5hbWUnKQ0KICAgIGFudC5tYWlsKG1haWxob3N0OidtYWlsaG9zdCcsIG1haWxwb3J0OicyNScsIHN1YmplY3Q6IGN0eC5nZXQoJ3N1YmplY3QnKSl7DQogICAgICBmcm9tKGFkZHJlc3M6Y3R4LmdldCgnZnJvbScpKQ0KICAgICAgdG8oYWRkcmVzczpjdHguZ2V0KCd0bycpKQ0KICAgICAgbWVzc2FnZSgiVGhlICR7YnVpbGRuYW1lfSBuaWdodGx5IGJ1aWxkIGhhcyBjb21wbGV0ZWQiKQ0KICAgICAgfQ0KICAgIH0NCn0=</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+</sv:node>
+
